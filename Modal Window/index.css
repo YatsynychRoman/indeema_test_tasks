@@ -1,0 +1,31 @@
+.modal-main {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    right: 40vw;
+    background: black;
+    text-align: center;
+    transition: ease-in-out 1s;
+}
+
+.modal-main h1 {
+    margin-top: 150px;
+    color: white;
+    font-size: 36pt;
+}
+
+.modal-main p {
+    color: white;
+    font-size: 24pt;
+}
+
+.modal-main button {
+    color: white;
+    outline: none;
+    border: none;
+    background: none;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    font-size: 46pt;
+}
